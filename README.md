@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sasikumar183
 - 👀 I’m interested in ...FullStack Developer
-- 🌱 I’m currently learning ...Backend
 - 💞️ I’m looking to collaborate on ...My Projects
 
 <!---
